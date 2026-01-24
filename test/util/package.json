@@ -37,10 +37,10 @@
     "glob-to-regexp": "^0.4.1",
     "mocha-junit-reporter": "^2.0.2",
     "mochawesome": "^7.0.1",
-    "remark": "^14.0.2",
+    "remark": "^15.0.0",
     "remark-frontmatter": "^4.0.1",
-    "remark-gfm": "^3.0.1",
-    "remark-parse": "^10.0.1",
+    "remark-gfm": "^4.0.0",
+    "remark-parse": "^11.0.0",
     "unified": "^10.1.1",
     "yaml": "^2.2.1"
   }
